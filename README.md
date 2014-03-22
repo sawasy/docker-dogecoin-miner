@@ -1,0 +1,2 @@
+docker-dogecoin-miner
+=====================
