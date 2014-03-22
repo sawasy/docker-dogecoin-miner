@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo $URL
+echo $USERNAME
+echo $PASSWORD
+
+
+/root/minerd -o $URL -u $USERNAME -p $PASSWORD -S
